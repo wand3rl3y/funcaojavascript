@@ -2,7 +2,7 @@ function area (largura, altura){
 
     const area = largura *altura 
     if (area > 20 ){
-        console .log ("valor acima do permitido")
+       return console .log ("valor acima do permitido")
     }else { return area}
 }
 
